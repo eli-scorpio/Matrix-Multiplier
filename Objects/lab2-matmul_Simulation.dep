@@ -1,0 +1,2 @@
+Dependencies for Project 'lab2-matmul', Target 'Simulation': (DO NOT MODIFY !)
+F (.\lab2-matmul.s)(0x5E4D73A7)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 528"--list .\listings\lab2-matmul.lst --xref -o .\objects\lab2-matmul.o --depend .\objects\lab2-matmul.d)
